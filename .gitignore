@@ -34,8 +34,7 @@ yarn-error.log*
 .env*
 !.env.example
 
-# local database / project secrets
-supabase/
+
 
 # vercel
 .vercel
